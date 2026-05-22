@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  ess-roadtest-web:
+    build: .
+    container_name: ess-roadtest-web
+    ports:
+      - "8000:8000"
+    environment:
+      - DEBUG=false
+      - LOG_LEVEL=INFO
+      - ESS_CONCURRENT_WORKERS=10
+      - ESS_RETRY_ATTEMPTS=3
+    volumes:
+      # 挂载飞书 token 缓存（避免每次重启都需要重新授权）
+      - ~/.cache/feishu-sync:/root/.cache/feishu-sync
+      - ~/.feishu:/root/.feishu
+      # 挂载发版数据，避免重新构建镜像时数据丢失
+      - ./backend/static/releases.json:/app/backend/static/releases.json
+    restart: unless-stopped
+    networks:
+      - momenta-internal
+
+networks:
+  momenta-internal:
+    driver: bridge

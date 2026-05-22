@@ -1,0 +1,160 @@
+{
+  "releases": [
+    {
+      "date": "0507",
+      "docTitle": "[0507] [V6.0.39 harz_6093] R6 四合一集成版本_ST35-V920_ST35-082.32(weekly release)_ST3-V920_ST3-182.32(weekly release)",
+      "docUrl": "https://momenta.feishu.cn/docx/IYa3dpLVdol2WuxakbdcEAPKnMe?from=from_parent_docx",
+      "st35Master": "HarzQNX-V6.0.39-ST35_A920_DEV_MF_8805-20260506.37149.tgz",
+      "st35Weekly": "HarzQNX-V6.0.39-ST35_A082.32_DEV_MF_83-20260507.3029.tgz",
+      "st3Master": "HarzQNX-V6.0.39-ST3_V920_DEV_MF_1443-20260506.37167.tgz",
+      "st3Weekly": "HarzQNX-V6.0.39-ST3_A182.32_DEV_MF_31-20260507.5811.tgz",
+      "devcar7v": "Devcar-V6.0.39-mainstream_MAX_SELECTOR_cuda11_470300-20260506.37143.tgz"
+    },
+    {
+      "date": "0423",
+      "docTitle": "[0423] [V6.0.39 harz_6093] R6 四合一集成版本_ST35-V920_ST35-082.30(weekly release)_ST3-V920_ST3-182.30(weekly release)_版本03",
+      "docUrl": "https://momenta.feishu.cn/docx/XI6ddUKyRohxW2xARE7cZ6ypnRd",
+      "st35Master": "HarzQNX-V6.0.39-ST35_A920_DEV_MF_8082-20260423.27692.tgz",
+      "st35Weekly": "HarzQNX-V6.0.39-ST35_A082.30_DEV_MF_197-20260423.27703.tgz",
+      "st3Master": "HarzQNX-V6.0.39-ST3_V920_DEV_MF_1347-20260423.27694.tgz",
+      "st3Weekly": "HarzQNX-V6.0.39-ST3_A182.30_DEV_MF_48-20260423.27698.tgz",
+      "devcar7v": "Devcar-V6.0.39-mainstream_MAX_SELECTOR_cuda11_465534-20260423.27696.tgz"
+    },
+    {
+      "date": "0416",
+      "docTitle": "[0416] [V6.0.39 harz_6093] R6 四合一集成版本_ST35-V920_ST35-082.29(weekly release)_ST3-V920_ST3-182.29(weekly release)",
+      "docUrl": "https://momenta.feishu.cn/docx/WYVLdf0sEoLZmFxDvMQcffC7n2v",
+      "st35Master": "HarzQNX-V6.0.39-ST35_A920_DEV_MF_7290-20260415.38373.tgz",
+      "st35Weekly": "HarzQNX-V6.0.39-ST35_A082.29_DEV_MF_29-20260415.38361.tgz",
+      "st3Master": "HarzQNX-V6.0.39-ST3_V920_DEV_MF_1199-20260415.38365.tgz",
+      "st3Weekly": "HarzQNX-V6.0.39-ST3_A182.29_DEV_MF_10-20260415.38364.tgz",
+      "devcar7v": "Devcar-V6.0.39-mainstream_MAX_SELECTOR_cuda11_460651-20260415.38357.tgz"
+    },
+    {
+      "date": "0411",
+      "docTitle": "[0411] [V6.0.39 harz_6093] R6 四合一集成版本_ST35-V920_ST35-082.28(weekly release)_ST3-V920_ST3-182.28(weekly release)_版本04",
+      "docUrl": "https://momenta.feishu.cn/docx/OJF5dNGsto3mVixMqgxcuTPwne4",
+      "st35Master": "HarzQNX-V6.0.39-ST35_A920_DEV_MF_6825-20260411.21922.tgz",
+      "st35Weekly": "HarzQNX-V6.0.39-ST35_A082.28_DEV_MF_229-20260411.21925.tgz",
+      "st3Master": "HarzQNX-V6.0.39-ST3_V920_DEV_MF_1125-20260411.21930.tgz",
+      "st3Weekly": "HarzQNX-V6.0.39-ST3_A182.28_DEV_MF_60-20260411.21938.tgz",
+      "devcar7v": "Devcar-V6.0.39-mainstream_MAX_SELECTOR_cuda11_458205-20260411.21921.tgz"
+    },
+    {
+      "date": "0402",
+      "docTitle": "[0402] [V6.0.39 harz_6093] R6 四合一集成版本_ST35-V920_ST35-082.27(weekly release)_ST3-V920_ST3-182.27(weekly release)",
+      "docUrl": "https://momenta.feishu.cn/docx/LxnbdwTQfo7UlVxJHphcNNkRnTh",
+      "st35Master": "HarzQNX-V6.0.39-ST35_A920_DEV_MF_5739-20260402.4249.tgz",
+      "st35Weekly": "HarzQNX-V6.0.39-ST35_A082.27_DEV_MF_398-20260402.4256.tgz",
+      "st3Master": "HarzQNX-V6.0.39-ST3_V920_DEV_MF_986-20260402.4266.tgz",
+      "st3Weekly": "HarzQNX-V6.0.39-ST3_A182.27_DEV_MF_99-20260402.4271.tgz",
+      "devcar7v": "Devcar-V6.0.39-mainstream_MAX_SELECTOR_cuda11_448662-20260402.4254.tgz"
+    },
+    {
+      "date": "0326",
+      "docTitle": "[0326] V6.0.39 · ST35-082.26 · ST3-182.26",
+      "docUrl": "https://momenta.feishu.cn/docx/BAEvddPvXoNGywxYzp5clOL9nYc",
+      "st35Master": "HarzQNX-V6.0.39-ST35_A920_DEV_MF_4893-20260326.1922.tgz",
+      "st35Weekly": "HarzQNX-V6.0.39-ST35_A082.26_DEV_MF_330-20260326.1948.tgz",
+      "st3Master": "HarzQNX-V6.0.39-ST3_V920_DEV_MF_835-20260326.1918.tgz",
+      "st3Weekly": "HarzQNX-V6.0.39-ST3_A182.26_DEV_MF_96-20260326.1924.tgz",
+      "devcar7v": "Devcar-V6.0.39-mainstream_MAX_SELECTOR_cuda11_442758-20260326.1943.tgz"
+    },
+    {
+      "date": "0319",
+      "docTitle": "[0319] V6.0.39 · ST35-082.25 · ST3-182.25",
+      "docUrl": "https://momenta.feishu.cn/docx/HOxAdMbWhoAMRIxei50cccmxnsg",
+      "st35Master": "HarzQNX-V6.0.39-ST35_A920_DEV_MF_4106-20260319.28535.tgz",
+      "st35Weekly": "HarzQNX-V6.0.39-ST35_A082.25_DEV_MF_280-20260319.28278.tgz",
+      "st3Master": "HarzQNX-V6.0.39-ST3_V920_DEV_MF_713-20260319.28532.tgz",
+      "st3Weekly": "HarzQNX-V6.0.39-ST3_A182.25_DEV_MF_78-20260319.28287.tgz",
+      "devcar7v": "Devcar-V6.0.39-mainstream_MAX_SELECTOR_cuda11_435568-20260319.13279.tgz"
+    },
+    {
+      "date": "0312",
+      "docTitle": "[0312] V6.0.39 · ST35-082.24 · ST3-182.24",
+      "docUrl": "https://momenta.feishu.cn/docx/Oku2dx5XCoZIgPxWaVHc2fHEntg",
+      "st35Master": "HarzQNX-V6.0.39-ST35_A920_DEV_MF_3118-20260312.512.tgz",
+      "st35Weekly": "HarzQNX-V6.0.39-ST35_A082.24_DEV_MF_3504-20260312.4696.tgz",
+      "st3Master": "HarzQNX-V6.0.39-ST3_V920_DEV_MF_487-20260312.507.tgz",
+      "st3Weekly": "HarzQNX-V6.0.39-ST3_A182.24_DEV_MF_148-20260312.6945.tgz",
+      "devcar7v": "Devcar-V6.0.39-mainstream_MAX_SELECTOR_cuda11_421824-20260312.515.tgz"
+    },
+    {
+      "date": "0306",
+      "docTitle": "[0306] V6.0.39 · ST35-082.23 · ST3-182.23",
+      "docUrl": "https://momenta.feishu.cn/docx/Mw5Pd5jtTol34Kxyv9dcWk3Kn7f",
+      "st35Master": "HarzQNX-V6.0.39-ST35_A920_DEV_MF_2428-20260305.10189.tgz",
+      "st35Weekly": "HarzQNX-V6.0.39-ST35_A082.23_DEV_MF_235-20260305.10171.tgz",
+      "st3Master": "HarzQNX-V6.0.39-ST3_V920_DEV_MF_353-20260305.10184.tgz",
+      "st3Weekly": "HarzQNX-V6.0.39-ST3_A182.23_DEV_MF_63-20260305.10178.tgz",
+      "devcar7v": "Devcar-V6.0.39-mainstream_MAX_SELECTOR_cuda11_404390-20260304.39081.tgz"
+    },
+    {
+      "date": "0213",
+      "docTitle": "[0213] V6.0.39 · ST35-082.21 · ST3-182.21",
+      "docUrl": "https://momenta.feishu.cn/docx/NKntdy0IOozq81xUN9jcPGoUnyY",
+      "st35Master": "HarzQNX-V6.0.39-ST35_A920_DEV_MF_1305-20260212.33431.tgz",
+      "st35Weekly": "HarzQNX-V6.0.39-ST35_A082.21_DEV_MF_898-20260212.33444.tgz",
+      "st3Master": "HarzQNX-V6.0.39-ST3_V920_DEV_MF_229-20260212.33437.tgz",
+      "st3Weekly": "HarzQNX-V6.0.39-ST3_A182.21_DEV_MF_285-20260212.33430.tgz",
+      "devcar7v": "Devcar-V6.0.39-mainstream_MAX_SELECTOR_cuda11_315968-20260212.33442.tgz"
+    },
+    {
+      "date": "0205",
+      "docTitle": "[0205] V6.0.39 · ST35-082.20 · ST3-182.20",
+      "docUrl": "https://momenta.feishu.cn/docx/HlkPdfnaDoeblRxVXiacQEwOnUc",
+      "st35Master": "HarzQNX-V6.0.39-ST35_A920_DEV_MF_561-20260205.19018.tgz",
+      "st35Weekly": "HarzQNX-V6.0.39-ST35_A082.20_DEV_MF_784-20260205.18944.tgz",
+      "st3Master": "HarzQNX-V6.0.39-ST3_V920_DEV_MF_103-20260205.18997.tgz",
+      "st3Weekly": "HarzQNX-V6.0.39-ST3_A182.20_DEV_MF_237-20260205.18960.tgz",
+      "devcar7v": "Devcar-V6.0.39-mainstream_MAX_SELECTOR_cuda11_282097-20260205.19027.tgz"
+    }
+  ],
+  "mainlineR6": [
+    {
+      "date": "0318",
+      "title": "ML6.0_EBM-R6.0_260318_B",
+      "url": "https://momenta.feishu.cn/wiki/QDelwFdWDiQOy1koTH9cF02ZnKg",
+      "devcar": "Devcar-V6.0.44-mainstream_MAX_SELECTOR_cuda11_9643-20260319.5610.tgz"
+    },
+    {
+      "date": "0311",
+      "title": "ML6.0_EBM-R6.0_260311_B",
+      "url": "https://momenta.feishu.cn/wiki/NTlIwfTWci5IAekvBQRc7G2unFd",
+      "devcar": "Devcar-V6.0.43-mainstream_MAX_SELECTOR_cuda11_4586-20260312.5137.tgz"
+    },
+    {
+      "date": "0304",
+      "title": "ML6.0_EBM-R6.0_260304_B",
+      "url": "https://momenta.feishu.cn/wiki/Kq6QwNmzUiRLByki98xcemPTnLe",
+      "devcar": "Devcar-V6.0.42-mainstream_MAX_SELECTOR_cuda11_680-20260305.5545.tgz"
+    },
+    {
+      "date": "0225",
+      "title": "ML6.0_EBM-R6.0_260225_B",
+      "url": "https://momenta.feishu.cn/wiki/XPFSwq4ljigCz6kEXR5czhHNneb",
+      "devcar": "Devcar-V6.0.41-mainstream_MAX_SELECTOR_cuda11_369104-20260226.8786.tgz"
+    },
+    {
+      "date": "0211",
+      "title": "ML6.0_EBM-R6.0_260211_R",
+      "url": "https://momenta.feishu.cn/wiki/LhsBwWoFrieFkPkGgqGcCkFhnHf",
+      "devcar": "Devcar-V6.0.40-mainstream_MAX_SELECTOR_cuda11_313176-20260212.9201.tgz"
+    },
+    {
+      "date": "0204",
+      "title": "ML6.0_EBM-R6.0_260204_B",
+      "url": "https://momenta.feishu.cn/wiki/Rc8kwkbFzij9zZkbXmPcc2UunZg",
+      "devcar": "Devcar-V6.0.39-mainstream_MAX_SELECTOR_cuda11_267695-20260202.9578.tgz"
+    }
+  ],
+  "mainlineR7": [
+    {
+      "date": "0215",
+      "title": "ML7.0_EBM-R7.0_260215_B",
+      "url": "https://momenta.feishu.cn/wiki/VUD1wErF9ihggKkDdidcQksnnKg",
+      "devcar": "Devcar-V7.0.1-mainstream_MAX_SELECTOR_cuda11_362921-20260224.18912.tgz"
+    }
+  ]
+}
